@@ -11,7 +11,13 @@ A handcrafted e-commerce website built using HTML, CSS, and JavaScript.
 ## 🚀 Technologies Used  
 - HTML  
 - CSS  
-- JavaScript  
+- JavaScript
 
-🌐 Live Demo :
-Click here to view the live demo.
+- 🚧 Limitations & Future Improvements
+🔸 The website is not fully optimized for mobile devices, which may affect the user experience on smaller screens.
+
+🔧 Planned Enhancements:
+✔️ Optimizes navigation for touch-based interactions
+✔️ Ensuring a smooth shopping experience across all devices
+
+🌐 Live Demo :https://mendasaiteja.github.io/Handicraft-Store/
